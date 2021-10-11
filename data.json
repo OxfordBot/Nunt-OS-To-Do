@@ -4,8 +4,12 @@
         "Date": "11 October 2021",
         "ToDo": [
             {
-                "Name": "Create 'Setup Page'",
+                "Name": "Create 'Boot Sequence'",
                 "Status": "Pending"
+            },
+            {
+                "Name": "Create 'Setup Page'",
+                "Status": "Not Yet"
             },
             {
                 "Name": "Create 'Login Page'",
