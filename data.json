@@ -5,11 +5,11 @@
         "ToDo": [
             {
                 "Name": "Create 'Boot Sequence'",
-                "Status": "Pending"
+                "Status": "Complete"
             },
             {
                 "Name": "Create 'Setup Page'",
-                "Status": "Not Yet"
+                "Status": "Pending"
             },
             {
                 "Name": "Create 'Login Page'",
