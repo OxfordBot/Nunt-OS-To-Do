@@ -14,11 +14,17 @@
             {
                 "Name": "Create 'Login Page'",
                 "Status": "Not Yet"
-            },
+            }
+        ]
+    },
+    {
+        "Day": 2,
+        "Date": "12 October 2021",
+        "ToDo": [
             {
                 "Name": "Create 'Desktop'",
                 "Status": "Not Yet"
             }
         ]
-    }
+    {
 ]
