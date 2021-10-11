@@ -24,6 +24,10 @@
             {
                 "Name": "Create 'Desktop'",
                 "Status": "Not Yet"
+            },
+            {
+                "Name": "Chatbot Helpdesk",
+                "Status": "Not Yet"
             }
         ]
     }
